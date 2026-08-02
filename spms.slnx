@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="spms/spms.vcxproj" Id="1a7ca745-81e8-4c5f-b92e-9429b8b6ef5e" />
+  <Project Path="游泳馆客户管理系统v0.1.1/游泳馆客户管理系统v0.1.1.vdproj" Type="Installer">
+    <Build />
+  </Project>
+</Solution>
